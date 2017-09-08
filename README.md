@@ -30,7 +30,7 @@ git clone https://github.com/ninamarra/larabase.git
 cd larabase
 ```
 
-Generate your app key and install all project dependecies...
+Generate your app key and install all project dependencies...
 
 ```
 composer install
@@ -47,7 +47,7 @@ For starting the project run `$ php artisan serve` and open on your terminal the
 
 ### Development
 
-LaraBase is a project in development. Just a starter pack but be welcome to sudgest new things.
+LaraBase is a project in development. Just a starter pack but be welcome to suggest new things.
 
 License
 ----
